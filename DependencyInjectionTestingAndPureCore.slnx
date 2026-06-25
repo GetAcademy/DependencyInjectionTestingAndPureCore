@@ -1,4 +1,4 @@
 <Solution>
   <Project Path="Inventory/Inventory.csproj" />
-  <Project Path="InventoryWithDependencyInjection/InventoryWithDependencyInjection.csproj" Id="b4537859-ed5f-474a-9af5-0734af128130" />
+  <Project Path="InventoryWithDependencyInjection/InventoryDI.csproj" Id="b4537859-ed5f-474a-9af5-0734af128130" />
 </Solution>
