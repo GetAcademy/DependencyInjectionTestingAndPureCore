@@ -11,7 +11,6 @@ namespace InventoryFP
             return newStock;
         }
 
-
         public static Result<int> Buy2(int quantity, int stock)
         {
             if (quantity > stock) return Result<int>.Failure("Ikke nok på lager");
