@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Inventory/Inventory.csproj" />
   <Project Path="InventoryDI.Test/InventoryDI.Test.csproj" Id="d20578d0-dd1d-41b8-94d0-c619ab3ea210" />
+  <Project Path="InventoryFP/InventoryFP.csproj" Id="81d53117-d65b-45c4-acd9-0571bc847ff3" />
   <Project Path="InventoryWithDependencyInjection/InventoryDI.csproj" Id="b4537859-ed5f-474a-9af5-0734af128130" />
 </Solution>
